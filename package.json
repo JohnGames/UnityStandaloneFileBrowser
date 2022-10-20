@@ -1,0 +1,8 @@
+{
+  "description": "Standalone File Browser",
+  "displayName": "SFB",
+  "name": "com.gkngkc.sfb",
+  "unity": "2020.1",
+  "version": "1.0.0",
+  "type": "library"
+}
